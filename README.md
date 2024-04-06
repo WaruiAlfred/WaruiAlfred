@@ -1,9 +1,8 @@
 <div align="center">
-<img src="https://tpconnects.com/wp-content/uploads/2020/03/full-stack-developer.png" align="center" style="width: 100%" />
-</div>  
+<img src="./img.jpeg" align="center" style="width: 100%" />
+</div>
 
-
-### <div align="center">I'm Alfred Warui, a full-time full-stack freelance developer 👨‍💻 </div>
+### <div align="center">I'm Alfred Warui, a software developer 👨‍💻 </div>
 
 - 🔭 An enthusiastic developer
 
@@ -69,8 +68,7 @@
 <a href="https://www.linkedin.com/in/alfred-kahenya-07a309229" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
+</div>
 
 <br/>
 
@@ -82,8 +80,7 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=WaruiAlfred&&style=flat-square" align="center" />
-</div>  
-
+</div>
 
 <br/>
 
